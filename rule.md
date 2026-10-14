@@ -1,6 +1,7 @@
 ## 1. branch 생성 및 md file 생성
   branch 이름 : 본인 학과  
-  branch에서 따로 생성한 md file 이름 : 본인 학과_intro
+  branch에서 따로 생성한 md file 이름 : 본인 학과_intro.md  
+intro 뒤에 .md를 붙이지 않으면 # 등의 기호가 처리되지 않고 그대로 노출되므로 file 이름 설정 시 .md를 붙여주세요.
 
 ## 2. md file 내용 작성
   각 md file 별로 단락(문단) 구성 
