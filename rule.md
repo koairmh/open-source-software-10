@@ -2,9 +2,10 @@
   branch 이름 : 본인 학과  
   branch에서 따로 생성한 md file 이름 : 본인 학과_intro.md  
 intro 뒤에 .md를 붙이지 않으면 # 등의 기호가 처리되지 않고 그대로 노출되므로 file 이름 설정 시 .md를 붙여주세요.
+서론 파트 맡으시는 분은 branch 이름을 서론으로 설정, 따로 md file을 만들지 말고 처음 branch 생성 후 나타나는 README.md 파일에서 그대로 작업해주세요. 
 
 ## 2. md file 내용 작성
-  각 md file 별로 단락(문단) 구성은 다음과 같습니다.  
+  서론 이외의 각 md file 별로 단락(문단) 구성은 다음과 같습니다.  
 * 본인이 정한 기술의 개념 소개
 * 등장 배경 
 * 핵심 메커니즘
@@ -15,7 +16,7 @@ intro 뒤에 .md를 붙이지 않으면 # 등의 기호가 처리되지 않고 �
 각 문단은 번호 매기기 혹은 *로 하위 항목 생성하기로 구분합니다.
   
 ## 3. 공통적인 commit change 기준 및 양식
-  먼저 위의 1번을 모두 수행했을 때 commit change 한 번, commit message는 (본인 학과) branch 및 md file 생성, extended description은 특별히 추가하지 않아도 됩니다.    
+  먼저 위의 1번을 모두 수행했을 때 commit change 한 번, commit message는 (본인 학과) branch 및 md file 생성 (서론 제외), extended description은 특별히 추가하지 않아도 됩니다.    
   
   md file 내용 작성 시 
 
