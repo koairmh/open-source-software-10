@@ -25,7 +25,7 @@ intro 뒤에 .md를 붙이지 않으면 # 등의 기호가 처리되지 않고 �
   
 ## 3. 공통적인 commit change 기준 및 양식
   먼저 위의 1번을 모두 수행했을 때 commit change 한 번, commit message는 본인 학과 branch 및 md file 생성 (서론 제외), extended description은 특별히 추가하지 않아도 됩니다.    
-  
+  이미지, 표 등을 삽입할 경우 commit change 해주세요.
 
 ## 4. pull request 기준
   위의 2번에서 설정한 단락 하나를 완성할 때마다 main으로 pull request - 병합은 Merge Commit으로 합니다. 
