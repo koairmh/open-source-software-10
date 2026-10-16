@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0%EA%B3%BC%20%EB%AF%B8%EB%9E%98%20%EC%82%B0%EC%97%85&fontSize=45&fontColor=ffffff&animation=fadeIn)
-
 # 과학기술과 미래 산업
 > 다섯 개의 전공, 다섯 개의 기술로 바라본 미래 산업의 모습
 >
