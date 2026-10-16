@@ -25,3 +25,4 @@ intro 뒤에 .md를 붙이지 않으면 # 등의 기호가 처리되지 않고 �
 
 ## 4. pull request 기준
   위의 2번에서 설정한 단락 하나를 완성할 때마다 main으로 pull request - 병합은 Merge Commit으로 합니다. 
+* 단, 서론(README.md)은 목차·표·그림 등 문단 외 요소가 많아, 단락 단위가 아닌 작업 단위(소제목, 표, 그림 등)를 완성할 때마다 자율적으로 pull request 합니다.
