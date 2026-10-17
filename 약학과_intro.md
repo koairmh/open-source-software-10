@@ -48,4 +48,9 @@ mRNA 백신과 치료제는 체내 세포질에 목표 단백질의 합성 설�
 
 위 같은 문제를 극복하기 위해 먼저 지질나노입자 대신에 이용할 생분해성 지질, 음이온성 전달체, 그리고 생체 유래 나노입자인 엑소좀을 활용한 차세대 운반체 연구가 활발히 진행 중이다. 이들은 몸 속에서 자연스럽게 분해되거나 면역계를 자극하지 않아, 과민 반응을 최소화하고 반복 투여가 가능한 안전한 플랫폼 개발을 가능하게 한다. 또한 고리 형태로 만드는 것처럼 mRNA 구조 자체의 안정성을 높이는 원천 기술과 함께 수분에 의한 분해를 막는 동결건조 등의 기술이 도입되고 있다. 이를 통해 향후 상온 또는 일반 냉장 조건에서도 장기 보관이 가능한 mRNA 의약품이 상용화되면 초저온 냉동 체계 의존도를 낮추고 전 세계적인 의료 접근성을 획기적으로 개선할 것으로 기대된다.
 
+## 참고 문헌
 
+- [질병관리청 국립보건연구원, 코로나19 백신의 차세대 설계 기술 개발] (https://www.kdca.go.kr/bbs/kdca/42/304966/download.do)
+- [팜뉴스, [2025년 바이오산업 전망 특집 기고] mRNA 백신 개발 현황, 트렌드 그리고 미래 전망] (https://www.pharmnews.com/news/articleView.html?idxno=255709)
+- [Springer Nature (Nature Reviews Materials), Lipid nanoparticles for mRNA delivery] (https://doi.org/10.1038/s41578-021-00358-0)
+- [Springer Nature (Nature Reviews Drug Discovery), mRNA vaccines — a new era in vaccinology] (https://doi.org/10.1038/nrd.2017.243)
