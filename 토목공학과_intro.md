@@ -25,4 +25,5 @@
 - [한국수자원공사, 디지털 트윈 물관리 플랫폼](https://m.kwater.or.kr/water/sub01/sub06/tech02Page.do?s_mid=2220)
 - [한국수자원공사, 홍수예방: 디지털 트윈 물관리 플랫폼 구축](https://m.kwater.or.kr/busi/water01/prevention02Page.do?s_mid=1818)
 - [NIST, Security and Trust Considerations for Digital Twin Technology](https://csrc.nist.gov/pubs/ir/8356/final)
+- [USGS, Urbanization and Water Quality](https://www.usgs.gov/water-science-school/science/urbanization-and-water-quality)
 
