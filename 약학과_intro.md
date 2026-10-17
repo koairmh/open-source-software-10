@@ -50,3 +50,7 @@ mRNA 백신과 치료제는 체내 세포질에 목표 단백질의 합성 설�
 
 ## 참고 문헌
 
+- [질병관리청 국립보건연구원, 코로나19 백신의 차세대 설계 기술 개발] (https://www.kdca.go.kr/bbs/kdca/42/304966/download.do)
+- [팜뉴스, [2025년 바이오산업 전망 특집 기고] mRNA 백신 개발 현황, 트렌드 그리고 미래 전망] (https://www.pharmnews.com/news/articleView.html?idxno=255709)
+- [Springer Nature (Nature Reviews Materials), Lipid nanoparticles for mRNA delivery] (https://doi.org/10.1038/s41578-021-00358-0)
+- [Springer Nature (Nature Reviews Drug Discovery), mRNA vaccines — a new era in vaccinology] (https://doi.org/10.1038/nrd.2017.243)
