@@ -34,5 +34,5 @@ flowchart LR
 
 ## 참고자료
 
-- [MDPI (Sensors), Electronic Noses: From Gas-Sensitive Components and Practical Applications to Data Processing] (https://doi.org/10.3390/s24154806⁠)
-- [MDPI (Sensors), Applications and Advances in Electronic-Nose Technologies] (https://doi.org/10.3390/s90705099⁠)
+- [MDPI (Sensors), Electronic Noses: From Gas-Sensitive Components and Practical Applications to Data Processing](https://doi.org/10.3390/s24154806⁠)
+- [MDPI (Sensors), Applications and Advances in Electronic-Nose Technologies](https://doi.org/10.3390/s90705099⁠)
