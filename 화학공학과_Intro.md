@@ -96,5 +96,7 @@
 
 ## 참고문헌
 
-International Energy Agency (IEA). (2025). *Global EV Outlook 2025 – Electric Vehicle Batteries*.
-U.S. Department of Energy (DOE). (2013). *Fuel Cell Basics*.
+1. [국제에너지기구(IEA), Global EV Outlook 2025 – Electric Vehicle Batteries]  
+(https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries)
+
+3. [미국 에너지부(DOE), Fuel Cell Basics] (https://www.energy.gov/cmei/fuels/fuel-cell-basics)
