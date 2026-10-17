@@ -85,6 +85,6 @@ mRNA 플랫폼은 코로나19 백신으로 그 가치를 입증한 뒤, 이제 �
 | 신소재공학과 | 권준엽  | [junyeop1540](https://github.com/junyeop1540) | 미생물 연료 전지 |
 | 토목공학과 | 강민수 | [mskang26](https://github.com/mskang26) | AI·디지털 트윈 기반 스마트 수자원 관리 |
 | 응용화학과 | 김동혁  | [pantom1287](https://github.com/pantom1287) | 인공후각 기술 |
-| 약학과 | 임채리 | [koairmh](https://github.com/koairmh) | mRNA 백신 |
+| 약학과 | 임채리 | [koairmh](https://github.com/koairmh) | mRNA 플랫폼 |
 
 각 팀원은 자신의 학과 이름으로 된 브랜치에서 문서를 작성하였고, 서론은 '서론' 브랜치에서 README.md를 직접 수정하며 작성하였다.
