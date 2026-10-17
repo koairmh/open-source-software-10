@@ -93,3 +93,10 @@
 | 수소연료전지 | 발전 시 물 생성 | 수소 생산·저장 비용 |
 
 종합적으로 정리하면, _배터리의 에너지 밀도를 높이는 동시에 안전성과 재활용 기술을 개선하고, 수소 생산 비용을 낮추는 연구가 중요하다._ 이러한 기술 발전은 지속 가능한 에너지 산업 구축에 기여할 것이다.
+
+## 참고문헌
+
+- [국제에너지기구(IEA), Global EV Outlook 2025 – Electric Vehicle Batteries]  
+(https://www.iea.org/reports/global-ev-outlook-2025/electric-vehicle-batteries)
+
+- [미국 에너지부(DOE), Fuel Cell Basics] (https://www.energy.gov/cmei/fuels/fuel-cell-basics)
