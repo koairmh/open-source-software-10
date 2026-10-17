@@ -26,7 +26,7 @@ MFCs는 1911년 마이클 크레세(Michael Cressé Potter)가 최초로 발견�
   
   <img width="400" height="258" alt="image" src="https://github.com/user-attachments/assets/209e06fb-3787-4c33-af44-7a601a3a9c4b" />
   
-  $\color{grey}{\text{<MFCs 메커니즘 도식화 자료 ⓒ특허청>}}$ [사이트 주소](https://www.sciencetimes.co.kr/nscvrg/view/menu/253?searchCategory=225&nscvrgSn=109174)
+  [<MFCs 메커니즘 도식화 자료 ⓒ특허청>](https://www.sciencetimes.co.kr/nscvrg/view/menu/253?searchCategory=225&nscvrgSn=109174)
   
 MFCs의 기본 원리는 산화 전극에서 혐기성 미생물이 유기물을 분해해 전자와 수소 이온을 생성하고, 전자는 외부 회로를 통해 환원 전극으로 이동하며 전력을 생산하고, 수소 이온은 전해질과 분리막을 거쳐 환원 전극에서 최종적으로 물을 생성하는 것이다. 이때 혐기성 미생물은 반응을 위한 산소 공급을 필요로 하지 않는다. 오히려 산소가 유입되면 전류 회수율이 낮아질 수 있다.  
   
