@@ -75,3 +75,4 @@ MFCs를 나노기술에 접목하려는 시도도 활발히 일어나고 있다.
 - [생명체에서 꺼내쓰는 전기에너지 - 현실화 되고 있는 생물연료전지](https://www.sciencetimes.co.kr/nscvrg/view/menu/253?searchCategory=225&nscvrgSn=109174)  
 - [바이오에너지 생산 및 폐수처리를 위한 미생물연료전지](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10069279)  
 - [폐수에서 전기 얻는 일석이조의 미생물연료전지](https://images.dongascience.com/uploads/article/pdf/201005/S201005N031.pdf)
+- [미세플라스틱을 탄소원으로 하는 퇴적물 미생물 연료전지(SMFC)에 관한 연구](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12542210)
