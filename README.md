@@ -81,7 +81,7 @@ mRNA 플랫폼은 코로나19 백신으로 그 가치를 입증한 뒤, 이제 �
 | 학과 | 이름 | GitHub ID | 담당 |
 |---|---|---|---|
 | 화학공학과 | 김경현 | [Kh031017](https://github.com/Kh031017) | 서론(README) |
-| 화학공학과 | 박원준 | [WonJun-2023](https://github.com/WonJun-2023) | 에너지 저장 및 변환 기술 |
+| 화학공학과 | 박원준 | [WonJun-2023](https://github.com/WonJun-2023) | 에너지 저장·변환 기술 |
 | 신소재공학과 | 권준엽  | [junyeop1540](https://github.com/junyeop1540) | 미생물 연료 전지 |
 | 토목공학과 | 강민수 | [mskang26](https://github.com/mskang26) | AI·디지털 트윈 기반 스마트 수자원 관리 |
 | 응용화학과 | 김동혁  | [pantom1287](https://github.com/pantom1287) | 인공후각 기술 |
