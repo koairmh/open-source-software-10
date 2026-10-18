@@ -26,7 +26,7 @@ MFCs는 1911년 마이클 크레세(Michael Cressé Potter)가 최초로 발견�
   
   <img width="400" height="258" alt="image" src="https://github.com/user-attachments/assets/209e06fb-3787-4c33-af44-7a601a3a9c4b" />
   
-  $\color{grey}{\text{<그림 4｜MFCs 메커니즘 도식화 자료 ⓒ특허청>)}}$  
+  그림 4: MFCs 메커니즘 도식화 자료 ⓒ특허청
   출처: 사이언스타임즈「생명체에서 꺼내쓰는 전기에너지」  
   원본: [사이언스타임즈](https://www.sciencetimes.co.kr/nscvrg/view/menu/253?searchCategory=225&nscvrgSn=109174)
   
