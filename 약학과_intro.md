@@ -21,7 +21,6 @@ mRNA 백신과 치료제는 체내 세포질에 **목표 단백질의 합성 설
 <div align="center">
   <img width="678" height="646" alt="41573_2021_283_Fig1_HTML" src="https://github.com/user-attachments/assets/4cd80a4c-5daa-46b2-8b39-2ce5ceb5c370" />  
   <br>
-  &lt;mRNA 합성 과정&gt;
 </div>
 
 그림7: mRNA 합성 과정  
