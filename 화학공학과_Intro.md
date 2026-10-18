@@ -54,6 +54,7 @@
 전체 과정의 이해를 돕기 위해 아래와 같은 이미지와 표를 추가하였다.  
 
 ![수소연료전지 구조](수소연료전지.png)  
+그림3: 수소연료전지 구조  
 출처: 한국쓰리엠(3M), 「수소 연료 전지의 기본 지식」  
 원본: [3M 공식 홈페이지](https://www.3m.co.kr/3M/ko_KR/hydrogen-technology-kr/applications/fuel-cells/)  
 
