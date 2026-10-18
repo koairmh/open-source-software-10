@@ -5,6 +5,7 @@
 AI, 디지털 트윈 기반 스마트 수자원 관리는 하천, 댐, 유역을 가상공간에 구현하고 관측자료로 상태를 갱신하는 기술이다. 고정된 3차원 모형과 달리 현실의 변화를 반영하며, 조건별 홍수, 가뭄 위험과 대응 대안을 비교한다. 수리, 수문 지식에 GIS와 AI 분석을 결합하지만, 계산 결과는 가정에 따른 추정이므로 기술자의 판단을 지원하는 수단으로 활용한다.
 
 <img width="980" height="549" alt="image" src="https://github.com/user-attachments/assets/1b5e5d7b-ab61-4171-a098-8cde6ed64cc6" />
+
 그림5: 디지털 트윈 물관리 개념도
 출처: K-water 한국수자원공사 홈페이지 홍수예방
 원본: https://www.kwater.or.kr/busi/water01/prevention02Page.do?s_mid=1818
