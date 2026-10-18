@@ -24,9 +24,10 @@ mRNA 백신과 치료제는 체내 세포질에 **목표 단백질의 합성 설
   &lt;mRNA 합성 과정&gt;
 </div>
 
-그림7: mRNA 합성 과정 
-출처: Nature Reviews Drug Discovery, 「mRNA vaccines for infectious diseases: principles, delivery and clinical translation」
-원본: Nature 공식 홈페이지(https://www.nature.com/articles/s41573-021-00283-5)
+그림7: mRNA 합성 과정  
+출처: Nature Reviews Drug Discovery, 「mRNA vaccines for infectious diseases: principles, delivery and clinical translation」  
+원본: Nature 공식 홈페이지(https://www.nature.com/articles/s41573-021-00283-5)  
+
 *그림에는 6번이 mRNA 백신으로 나와 있으나, 치료제의 경우도 이와 동일하다.
 
 ## 4. mRNA 플랫폼의 응용 분야
