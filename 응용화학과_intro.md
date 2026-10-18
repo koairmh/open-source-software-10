@@ -12,8 +12,8 @@
 
 ![인공후각 기술의 작동 원리](인공후각%20기술의%20작동%20원리.jpeg)
 
-그림6: 인공후각 시스템의 작동 원리
-출처: AIP Publishing(2023), 「E-noses: Smells like the future of sensors」
+그림6: 인공후각 시스템의 작동 원리  
+출처: AIP Publishing(2023), 「E-noses: Smells like the future of sensors」  
 원본: AIP Publishing 공식 홈페이지(https://pubs.aip.org/aip/sci/article/2023/20/201101/2890531/E-noses-Smells-like-the-future-of-sensorsGraphene)
 
 인공후각은 냄새 감지 → 전기적 신호 변환 → 데이터 처리 → 패턴 인식의 과정으로 작동한다. 금속산화물 반도체(MOS) 등의 화학 센서는 기체 분자가 센서 표면에서 반응하면 전기저항이 변화하고, 각 센서는 물질에 따라 서로 다른 반응을 나타낸다. 이렇게 여러 센서에서 얻은 신호 데이터는 이후 AI 및 머신러닝 기법으로 분석된다. 이를 통해 어떤 냄새인지 구별하거나 식품의 신선도와 같은 상태를 예측할 수 있다.
