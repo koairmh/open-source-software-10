@@ -10,7 +10,7 @@
 
 ## 3. 인공후각 기술의 핵심 메커니즘
 
-![인공후각 시스템의 작동 원리](인공후각 시스템의 작동 원리.jpeg)
+![인공후각 기술의 작동 원리](인공후각 기술의 작동 원리.jpeg)
 
 그림6: 인공후각 시스템의 작동 원리
 출처: AIP Publishing(2023), 「E-noses: Smells like the future of sensors」
